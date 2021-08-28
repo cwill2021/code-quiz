@@ -6,6 +6,12 @@ body {
     margin: auto;
 }
 
+.h1 {
+    font-size: 36px;
+    color: blueviolet;
+    text-decoration: underline;
+}
+
 p {
     margin: 15px 0;
 }
