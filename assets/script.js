@@ -21,7 +21,7 @@ let timerInterval = false;
 
 function startQuiz() {
    
-    timerSecs = 50;
+    timerSecs = 60;
     timerDisplay.textContent = timerSecs;
 
  
